@@ -108,7 +108,9 @@ _______________________________________________________________
       The database was `PostgreSQL`. For mail and `Telegram` message distributions, we
       used `Redis` + `Celery`, which also had many other minor periodic tasks.
       Eventually, we had two backend developers and two front-end developers.
-      (and a junior developer helping).
+      (and a junior developer helping). Used asynchronous `Django` 
+      via `daphne`, a lot of the logic for the asynchronous operation of `ORM` was written independently. 
+      The same applies to serializers (`adrf` does not help)
 
    #### Implemented
     * Integration with `AmoCRM`
