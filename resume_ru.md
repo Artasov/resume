@@ -18,13 +18,13 @@
 _______________________________________________________________
 ## Технические навыки:
 * **Опыт в написании коммерческого кода 3 - 4 года**
-* `Python` `Django` `DRF` `HTTP` `WebSockets` `Docker Compose`<br>
+* `Python` `Django` `React` `DRF` `HTTP` `WebSockets` `Docker Compose`<br>
   `REST` `S3 Storage(Minio)` `HTML/CSS/SCSS/Bootstrap` `JS`<br>
   `Redis` `Linux` `Git` `nginx` `gunicorn` `Qt C++` `WinAPI`<br>
 * Знаю принципы `SOLID`, `KISS`, `DRY` и `паттерны проектирования`.
 * Отличаю многопоточность и многопроцессность от асинхронности в Python.  
-* Делал авто-документацию через `Swagger` и `Sphinx`. .
-* Периодически использую `React`.
+* Делал авто-документацию через `Swagger` и `Sphinx`.
+* Знаю что такое `kuber` и `swarm`, но лично не применял.
 * Был опыт подключения `Adyen`, `Braintree`, `globalpayments`, 
 `checkout` и нескольких других крупных платежек.
 _______________________________________________________________

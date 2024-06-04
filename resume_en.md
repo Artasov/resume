@@ -21,14 +21,14 @@ _______________________________________________________________
 ## Technical Skills:
 
 * **3 - 4 years of experience in commercial writing**
-* `Python` `Django` `DRF` `HTTP` `WebSockets` `Docker Compose`<br>
+* `Python` `Django` `React` `DRF` `HTTP` `WebSockets` `Docker Compose`<br>
   `REST` `S3 Storage(Minio)` `HTML/CSS/SCSS/Bootstrap` `JS`<br>
   `Redis` `Linux` `Git` `nginx` `gunicorn` `Qt C++` `WinAPI`<br>
 * Familiar with `SOLID`, `KISS`, `DRY` principles and `design patterns`.
 * I distinguish between multithreading and multiprocessing from asynchrony in Python.
 * Experienced in auto-documentation with `Swagger` and `Sphinx`.
 * Understand `indexes` and `isolations` in databases.
-* Some knowledge of `React`, heard about `Kubernetes`.
+* Heard about `Kubernetes`.
 * Have experience integrating `Adyen`, `Braintree`, `GlobalPayments`,
   `Checkout`, and several other payment systems.
 
