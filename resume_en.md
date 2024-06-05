@@ -16,7 +16,6 @@ to new client requirements.
 * [My Work Experience](#commercial-work-experience)
 * [Education](#education)
 * [Contacts](#contacts)
-
 _______________________________________________________________
 
 ## Technical Skills:
@@ -39,7 +38,6 @@ _______________________________________________________________
 ### `Async Django` + `React` + `Docker` - https://github.com/Artasov/xlartas
 ### Lib for automation on Windows - https://github.com/Artasov/simpleautogui
 ### I can separately send examples of C++ code for programs described below.
-
 _______________________________________________________________
 
 ## How I Got Into `IT`
@@ -62,7 +60,6 @@ I connected a payment system aggregator, advertised, and sold different types
 of subscriptions, and I still make a small income from this project :)<br>
 At this time, I was studying at `St. Petersburg State Electrotechnical University 'LETI'`
 in `Applied Mathematics and Informatics`.
-
 _______________________________________________________________
 
 ## Commercial Work Experience:
@@ -144,16 +141,13 @@ _______________________________________________________________
 
 * ### General Secondary Education
 * ### St. Petersburg State Electrotechnical University 'LETI' - Applied Mathematics and Informatics `2020 - 2021`
-
 _______________________________________________________________
 **Russian**: Native.<br>
 **English**: Comfortable reading documentation, conversational 50/50.
-
 _______________________________________________________________
 
 ## Contacts
 
 * ### **Telegram**: [@artasov](https://t.me/artasov)
 * ### **Email**: ivanhvalevskey@gmail.com
-
 _______________________________________________________________
