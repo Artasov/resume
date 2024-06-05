@@ -11,6 +11,7 @@ some understanding of business processes, and the ability to quickly adapt
 to new client requirements.
 
 * [Technical Skills](#technical-skills)
+* [Development examples](#Development-examples)
 * [How I Got Into **IT**](#how-i-got-into-it)
 * [My Work Experience](#commercial-work-experience)
 * [Education](#education)
@@ -31,6 +32,13 @@ _______________________________________________________________
 * Heard about `Kubernetes`.
 * Have experience integrating `Adyen`, `Braintree`, `GlobalPayments`,
   `Checkout`, and several other payment systems.
+_______________________________________________________________
+## Development examples
+>What I can show
+
+### `Async Django` + `React` + `Docker` - https://github.com/Artasov/xlartas
+###Lib for automation on Windows - https://github.com/Artasov/simpleautogui
+### I can separately send examples of C++ code for programs described below.
 
 _______________________________________________________________
 
