@@ -37,7 +37,7 @@ _______________________________________________________________
 >What I can show
 
 ### `Async Django` + `React` + `Docker` - https://github.com/Artasov/xlartas
-###Lib for automation on Windows - https://github.com/Artasov/simpleautogui
+### Lib for automation on Windows - https://github.com/Artasov/simpleautogui
 ### I can separately send examples of C++ code for programs described below.
 
 _______________________________________________________________
