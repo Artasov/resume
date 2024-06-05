@@ -23,7 +23,7 @@ _______________________________________________________________
 * **3 - 4 years of experience in commercial writing**
 * `Python` `Django` `React` `DRF` `HTTP` `WebSockets` `Docker Compose`<br>
   `REST` `S3 Storage(Minio)` `HTML/CSS/SCSS/Bootstrap` `JS`<br>
-  `Redis` `Linux` `Git` `nginx` `gunicorn` `Qt C++` `WinAPI`<br>
+  `Redis` `Linux` `Git` `nginx` `gunicorn` `Qt C++` `WinAPI` `selenium`<br>
 * Familiar with `SOLID`, `KISS`, `DRY` principles and `design patterns`.
 * I distinguish between multithreading and multiprocessing from asynchrony in Python.
 * Experienced in auto-documentation with `Swagger` and `Sphinx`.

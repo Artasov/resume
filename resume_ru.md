@@ -20,7 +20,7 @@ _______________________________________________________________
 * **Опыт в написании коммерческого кода 3 - 4 года**
 * `Python` `Django` `React` `DRF` `HTTP` `WebSockets` `Docker Compose`<br>
   `REST` `S3 Storage(Minio)` `HTML/CSS/SCSS/Bootstrap` `JS`<br>
-  `Redis` `Linux` `Git` `nginx` `gunicorn` `Qt C++` `WinAPI`<br>
+  `Redis` `Linux` `Git` `nginx` `gunicorn` `Qt C++` `WinAPI` `selenium`<br>
 * Знаю принципы `SOLID`, `KISS`, `DRY` и `паттерны проектирования`.
 * Отличаю многопоточность и многопроцессность от асинхронности в Python.  
 * Делал авто-документацию через `Swagger` и `Sphinx`.
