@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I am a `Full-stack Web Developer` with a strong focus on `backend`.
 Beginning my IT journey with game process automation, I have moved on to more
 substantial and complex projects, including web application development and comprehensive
-`CRM` systems. I worked at `Accenture` on an outsourcing project. Afterward, I designed and developed
+`CRM` systems. Afterward, I designed and developed
 a `CRM` system for an online children's school. I possess strong programming skills,
 some understanding of business processes, and the ability to quickly adapt
 to new client requirements.
