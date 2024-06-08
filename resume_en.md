@@ -1,4 +1,4 @@
-# Nikita Artasov `Web Developer`
+# Nikita Tolpegin `Web Developer`
 
 > ### Commercial experience: 3-4 years
 

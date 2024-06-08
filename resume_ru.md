@@ -1,4 +1,4 @@
-# Никита Артасов `Web Developer`
+# Никита Толпегин `Web Developer`
 > ### Коммерческий опыт: 3-4 года
 
 &nbsp;&nbsp;&nbsp;&nbsp;Я `Full-stack Web Developer` с сильным уклоном в сторону `backend`. 
