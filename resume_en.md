@@ -73,28 +73,8 @@ _______________________________________________________________
    `Django` + `DRF` + `Celery` + `PostgreSQL`<br>
    Knowing that `1C` can interact with `Postgre`, it might be possible to use a single database in the future.
 
-2. ### Middle Backend Developer | Accenture (Outsource) `2021 - 2022`
 
-   &nbsp;&nbsp;&nbsp;&nbsp;Following my interview, I was hired for an outsourcing
-   project at `Accenture`.
-   Our team included a team lead analyst, 3 front-end developers, me as a backend developer,
-   3 other backend developers, and a `DevOps` who also acted as a tester. The team lead was skilled in analytics
-   and handled most of the business logic related to data processing.
-   I wrote `API` endpoints through `DRF`, integrated `Nginx`, `Celery` workers,
-   `React`, `Django`, and `WebSockets` into one system using `Docker Compose`,
-   and also wrote business logic not related to complex `Big Data` analysis.
-   I created a simple instant notification service through `WebSocket`.
-   Occasionally, I wrote something simple in `React` code, various uploads. I wrote a small wrapper around
-   the `amoCRM API` for `python` for tighter integration with our service.
-   Tasks were diverse and varied. I also distributed tasks
-   to other backend developers and periodically refactored their code (and they mine`:)`).
-
-   The project aimed at improving the client's entire logistic chain,
-   from ordering goods to their delivery. Our system provided
-   a client dashboard and a comprehensive tool for monitoring,
-   managing inventories, and optimizing logistics processes.
-
-3. ### Middle/Senior FullStack Dev | Online IT school for children `2022 - 2024`
+3. ### Middle FullStack Dev | Online IT school for children `2022 - 2024`
 
    &nbsp;&nbsp;&nbsp;&nbsp;When I joined the company,
    there were `AmoCrm` and `HolliHop` (`CRM` system for educational centers).
